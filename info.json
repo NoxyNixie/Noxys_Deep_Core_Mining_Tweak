@@ -1,13 +1,13 @@
 {
 	"name": "Noxys_Deep_Core_Mining_Tweak",
-	"version": "0.3.0",
-	"factorio_version": "1.0",
+	"version": "0.4.0",
+	"factorio_version": "1.1",
 	"title": "Noxys Deep Core Mining Tweak",
 	"author": "Noxy",
 	"contact": "not.a.valid.email.address@example.com",
 	"homepage": "https://mods.factorio.com/user/_noxy_",
 	"description": "Tweaks the speed of VortiKs deep core mining machines. This by default reduces the speed to 1/5th of the normal speed since I feel this is a more balanced rate.",
 	"dependencies": [
-		"base >= 1.0.0"
+		"base >= 1.1.0"
 	]
 }
